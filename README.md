@@ -25,12 +25,11 @@
 4. Click **Load unpacked** and select the **root folder** of this repository (where `manifest.json` is located).
 5. The extension will appear in the toolbar (pin it if needed).
 
-> **Tip:** Works on `https://x.com/*`.
 
 ## 💻 Usage
 
 1. Install the extension.
-2. Visit x.com.
+2. Visit x.com
 3. GIFs are automatically replaced with a placeholder.
 4. Click the placeholder to reveal the GIF.
 
