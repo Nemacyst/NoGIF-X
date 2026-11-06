@@ -49,7 +49,6 @@ Detection is based on source URLs and element types. Since X can change its mark
 
 ![GIF placeholder](screenshots/placeholder.png)
 
-*GIF hidden – click to show*
 
 
 ## 📜 License
