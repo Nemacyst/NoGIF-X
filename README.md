@@ -1,6 +1,6 @@
 # 🚫 NoGIF X
 
-**A lightweight Chrome extension that hides GIFs on [x.com](https://x.com) and twitter.com with a click-to-show placeholder.**
+**A lightweight Chrome extension that hides GIFs on [x.com](https://x.com) with a click-to-show placeholder.**
 
 > Keep your timeline cleaner by hiding GIFs until you explicitly want to see them.
 
@@ -11,7 +11,7 @@
 
 ## ✨ Features
 
-- 🚫 Automatically hides GIFs on x.com and twitter.com
+- 🚫 Automatically hides GIFs on x.com
 - 👆 Shows a clean “GIF hidden – click to show” placeholder
 - 🔄 Works with infinite scroll
 - 🔒 100% local – no data is collected or sent anywhere
@@ -25,12 +25,12 @@
 4. Click **Load unpacked** and select the **root folder** of this repository (where `manifest.json` is located).
 5. The extension will appear in the toolbar (pin it if needed).
 
-> **Tip:** Works on both `https://x.com/*` and `https://twitter.com/*`.
+> **Tip:** Works on both `https://x.com/*`.
 
 ## 💻 Usage
 
 1. Install the extension.
-2. Visit x.com or twitter.com.
+2. Visit x.com.
 3. GIFs are automatically replaced with a placeholder.
 4. Click the placeholder to reveal the GIF.
 
@@ -44,7 +44,7 @@ Detection is based on source URLs and element types. Since X can change its mark
 
 - Everything runs locally in the browser.
 - No data is collected, stored, or transmitted.
-- The extension only has access to x.com and twitter.com.
+- The extension only has access to x.com.
 
 ## 📸 Screenshot
 
