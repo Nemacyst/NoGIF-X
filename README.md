@@ -1,4 +1,4 @@
-# 🚫 X GIF Blocker
+# 🚫 NoGIF X
 
 **A lightweight Chrome extension that hides GIFs on [x.com](https://x.com) and twitter.com with a click-to-show placeholder.**
 
