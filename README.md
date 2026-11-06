@@ -46,6 +46,13 @@ Detection is based on source URLs and element types. Since X can change its mark
 - No data is collected, stored, or transmitted.
 - The extension only has access to x.com and twitter.com.
 
+## 📸 Screenshot
+
+![GIF placeholder](screenshots/placeholder.png)
+
+*GIF hidden – click to show*
+
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
