@@ -43,7 +43,7 @@ Detection is based on source URLs and element types. Since X can change its mark
 
 - Everything runs locally in the browser.
 - No data is collected, stored, or transmitted.
-- The extension only has access to x.com.
+- The extension only has access to x.com
 
 ## 📸 Screenshot
 
