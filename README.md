@@ -13,7 +13,7 @@
 
 - 🚫 Automatically hides GIFs on x.com and twitter.com
 - 👆 Shows a clean “GIF hidden – click to show” placeholder
-- 🔄 Works with infinite scroll (MutationObserver)
+- 🔄 Works with infinite scroll
 - 🔒 100% local – no data is collected or sent anywhere
 - 🎨 Simple and lightweight
 
