@@ -4,8 +4,8 @@
 
 > Keep your timeline cleaner by hiding GIFs until you explicitly want to see them.
 
-[![Chrome](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&style=for-the-badge)](https://chromewebstore.google.com)
-[![Brave](https://img.shields.io/badge/Brave-Extension-orange?logo=brave&style=for-the-badge)](https://chromewebstore.google.com)
+[![Chrome](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&style=for-the-badge)](https://chromewebstore.google.com/detail/nogif-x/nemnepmfbomcadfhfphhmbjlhmelbjfe)
+[![Brave](https://img.shields.io/badge/Brave-Extension-orange?logo=brave&style=for-the-badge)](https://chromewebstore.google.com/detail/nogif-x/nemnepmfbomcadfhfphhmbjlhmelbjfe)
 
 ---
 
