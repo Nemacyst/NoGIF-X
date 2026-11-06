@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "NoGIF X",
   "version": "1.0",
-  "description": "Hides GIFs on x.com and twitter.com with a click-to-show placeholder.",
+  "description": "Hides GIFs on x.com.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
