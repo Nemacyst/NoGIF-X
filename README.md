@@ -25,7 +25,7 @@
 4. Click **Load unpacked** and select the **root folder** of this repository (where `manifest.json` is located).
 5. The extension will appear in the toolbar (pin it if needed).
 
-> **Tip:** Works on both `https://x.com/*`.
+> **Tip:** Works on `https://x.com/*`.
 
 ## 💻 Usage
 
